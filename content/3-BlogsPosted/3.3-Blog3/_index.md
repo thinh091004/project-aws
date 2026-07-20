@@ -36,7 +36,5 @@ Below is an overview of the main subsystems in the system architecture (details 
 
 Thank you for reading.
 
-## ARCHITECTURE ILLUSTRATION
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog3.PNG)
 ### Post on AWS Study Group: Blog post link:
 https://aws.amazon.com/vi/blogs/compute/building-a-serverless-multiplayer-game-that-scales/

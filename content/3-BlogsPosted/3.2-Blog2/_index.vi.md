@@ -33,8 +33,6 @@ Không chỉ dừng lại ở việc trả lời câu hỏi, Bedrock cho phép b
 ### Tổng kết
 Amazon Bedrock chính là chìa khóa giúp các lập trình viên và doanh nghiệp dân chủ hóa công nghệ AI. Bạn không cần phải là một chuyên gia Tiến sĩ về Khoa học dữ liệu (Data Scientist) để tạo ra một ứng dụng AI thông minh. Chỉ với vài dòng code gọi API đến Bedrock, bạn đã có thể tích hợp sức mạnh của những bộ não AI đỉnh cao nhất hành tinh vào hệ thống của mình.
 Cảm ơn mọi người đã đọc.
-## HÌNH ẢNH MINH HỌA KIẾN TRÚC
 
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog2.JPG)
 ### Bài viết trên AWS Study Group: Đường link bài Blog: 
 https://www.facebook.com/photo/?fbid=2423694408126738&set=gm.2206944266737200&idorvanity=660548818043427

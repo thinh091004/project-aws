@@ -141,9 +141,6 @@ The First Cloud AI Journey (FCAJ) Meetup provides a comprehensive overview, from
 - Work Culture and International Standards
 - The Process of Conquering Multinational Corporations (MNCs)
 
-#### Some Images from the Event
-
-![AWS Systems Manager Architecture](/images/4-EventParticipated/Event3.PNG)
 #### Experience in Corporate Culture (Culture & Environment)
 * No-Blame Culture: Participants gained insight into the work culture of large technology corporations (MNC Tech), where, when problems arise, everyone works together to find the root cause to improve the system instead of criticizing individuals.
 

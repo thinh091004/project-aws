@@ -47,8 +47,5 @@ Cảm ơn mọi người đã đọc.
 
 ---
 
-## HÌNH ẢNH MINH HỌA KIẾN TRÚC
-
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog1.JPG)
 ### Bài viết trên AWS Study Group: Đường link bài Blog: 
 https://www.facebook.com/groups/awsstudygroupfcj/?multi_permalinks=2203304060434554&notif_id=1783123210295155&notif_t=feedback_reaction_generic&ref=notif
