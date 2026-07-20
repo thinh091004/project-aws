@@ -29,6 +29,6 @@ Cám ơn mọi người đã đọc.
 
 ## HÌNH ẢNH MINH HỌA KIẾN TRÚC
 
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog3.PNG)
+{{< figure src="/images/3-BlogPosted/Blog3.PNG" alt="AWS Systems Manager Architecture" >}}
 ### Bài viết trên AWS Study Group: Đường link bài Blog: 
 https://aws.amazon.com/vi/blogs/compute/building-a-serverless-multiplayer-game-that-scales/

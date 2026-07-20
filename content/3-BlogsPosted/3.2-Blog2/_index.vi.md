@@ -35,6 +35,6 @@ Amazon Bedrock chính là chìa khóa giúp các lập trình viên và doanh ng
 Cảm ơn mọi người đã đọc.
 ## HÌNH ẢNH MINH HỌA KIẾN TRÚC
 
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog2.JPG)
+{{< figure src="/images/3-BlogPosted/Blog2.JPG" alt="AWS Systems Manager Architecture" >}}
 ### Bài viết trên AWS Study Group: Đường link bài Blog: 
 https://www.facebook.com/photo/?fbid=2423694408126738&set=gm.2206944266737200&idorvanity=660548818043427

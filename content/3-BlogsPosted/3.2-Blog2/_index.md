@@ -40,6 +40,6 @@ Amazon Bedrock is the key for developers and enterprises to democratize AI techn
 Thank you everyone for reading.
 
 ## ARCHITECTURE ILLUSTRATION
-![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog2.JPG)
+{{< figure src="/images/3-BlogPosted/Blog2.JPG" alt="AWS Systems Manager Architecture" >}}
 ### Post on AWS Study Group: Blog post link:
 https://www.facebook.com/photo/?fbid=2423694408126738&set=gm.2206944266737200&idorvanity=660548818043427
