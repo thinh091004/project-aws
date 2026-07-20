@@ -67,8 +67,8 @@ The event delivered highly practical and accessible content. The most impressive
 
 #### Event Photos
 
-![AWS Systems Manager Architecture](/project-aws//images/4-EventParticipated/Event1.1.jpg)
-![AWS Systems Manager Architecture](/project-aws//images/4-EventParticipated/Event1.2.jpg)
-![AWS Systems Manager Architecture](/project-aws//images/4-EventParticipated/Event1.3.jpg)
+![AWS Systems Manager Architecture](/images/4-EventParticipated/Event1.1.jpg)
+![AWS Systems Manager Architecture](/images/4-EventParticipated/Event1.2.jpg)
+![AWS Systems Manager Architecture](/images/4-EventParticipated/Event1.3.jpg)
 
 > Overall, the event not only provided technical knowledge but also reshaped my mindset on application design, system modernization, and efficient cross-team collaboration.
