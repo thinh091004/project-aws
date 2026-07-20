@@ -47,6 +47,6 @@ Thank you for reading.
 
 ## ARCHITECTURE DIAGRAM
 
-{{< figure src="/images/3-BlogPosted/Blog1.JPG" alt="AWS Systems Manager Architecture" >}}
+![AWS Systems Manager Architecture](/images/3-BlogPosted/Blog1.JPG)
 ### Post on AWS Study Group: Blog post link: 
 https://www.facebook.com/groups/awsstudygroupfcj/?multi_permalinks=2203304060434554&notif_id=1783123210295155&notif_t=feedback_reaction_generic&ref=notif

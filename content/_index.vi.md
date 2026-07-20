@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 30/07/2026
 
-{{< figure src="/images/NMS_8410.JPG" alt="Ảnh Đại Diện Của Bạn" >}}
+![AWS Systems Manager Architecture](/images/Thinh.jpg)
 
 
 

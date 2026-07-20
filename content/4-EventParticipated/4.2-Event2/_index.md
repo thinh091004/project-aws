@@ -143,7 +143,7 @@ The First Cloud AI Journey (FCAJ) Meetup provides a comprehensive overview, from
 
 #### Some Images from the Event
 
-{{< figure src="/images/4-EventParticipated/Event3.PNG" alt="AWS Systems Manager Architecture" >}}
+![AWS Systems Manager Architecture](/images/4-EventParticipated/Event3.PNG)
 #### Experience in Corporate Culture (Culture & Environment)
 * No-Blame Culture: Participants gained insight into the work culture of large technology corporations (MNC Tech), where, when problems arise, everyone works together to find the root cause to improve the system instead of criticizing individuals.
 
